@@ -27,3 +27,18 @@ p{
 .col-md-10, .col-md-3, .col-md-7{
     background-color: #f9fbff;
 }
+.carousel-inner{
+    height: 900px;
+    width: 1100px;
+}
+
+.image{
+    height: 900px;
+    width: 1100px;
+}
+.display-4{
+    text-align: center;
+    background-color: #02137b;
+    position: relative;
+    margin-bottom: 25px;
+}

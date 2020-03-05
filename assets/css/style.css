@@ -53,3 +53,10 @@ p{
 p:only-child{
     color: #b9b9b9;
 }
+
+@media screen and (max-width: 640px){
+    h1{
+        width: 100%;
+        text-align: center;
+    }
+}

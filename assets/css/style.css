@@ -47,7 +47,10 @@ p{
     width: 100%;
 }
 #footer{
-    background-color: #666666;  
+    background-color: #666666; 
+    position: fixed; 
+    left: 0;
+    bottom: 0;
     
 }
 p:only-child{
